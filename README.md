@@ -13,4 +13,4 @@ CSS is used for designing the webpages.
 
 HTML is used for structuring the webpages.
 
-Website Link -> login-logout-tintin-srijaa.epizy.com
+Website Link -> http://login-logout-tintin-srijaa.epizy.com
